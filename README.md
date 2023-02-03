@@ -1,5 +1,5 @@
 # gwerdtopia-mc-mod-pack
-This is the modpack for the gwerdtopia modded server
+This is the modpack for the gwerdtopia modded server, the modpack usually updates every day or so
 
 to upload these mods into your mod folder, first you must download forge, the forge installer is already here in "forge-1.18.2-40.2.0-installer (1).jar"
 
