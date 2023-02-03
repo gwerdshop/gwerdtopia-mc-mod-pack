@@ -1,11 +1,19 @@
 # gwerdtopia-mc-mod-pack
+
+
+
 This is the modpack for the gwerdtopia modded server, the modpack usually updates every day or so
+
+# installing apps to add mods 
 
 to upload these mods into your mod folder, first you must download forge, the forge installer is already here in "forge-1.18.2-40.2.0-installer (1).jar"
 
+if you cant open a zip file, download winrar at https://www.win-rar.com/download.html?&L=0
+
+# 
 
 
-after you downloaded forge, you should now see it in your minecraft launcher
+once you downloaded forge 1.18, you should now see it in your minecraft launcher
 
 
 
@@ -32,6 +40,9 @@ then you should see this (there might be extra or less stuff)
 ![image](https://user-images.githubusercontent.com/124338615/216529732-e584230f-6d70-43ce-9ca0-4b98caef2380.png)
 
 just click on the "mods" folder and drag the modpack into it, then right click it, and "extract here"
+
+# allocating more ram to minecraft
+
 
 now this is necessary, click edit on the installation of forge
 
